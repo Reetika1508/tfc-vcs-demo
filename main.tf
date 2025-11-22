@@ -28,6 +28,6 @@ provider "aws" {
 
 resource "aws_s3_bucket" "demo" {
 
-  bucket = "tfc-cli-demo-bucket2-123499990000978337765"
+  bucket = "tfc-cli-demo-bucket2-1234999900099990978337765"
 
 }
